@@ -1,4 +1,4 @@
-<h1>Add and manage users with Linux commands  </h1>
+><h1>Add and manage users with Linux commands  </h1>
 
 
 <h2>Description</h2>
@@ -12,12 +12,12 @@ When managing this, as a security analyst I will need to ensure
 <br />
 
 
-<h2>Scenario </h2>
+<h2> Scenario </h2>
 A new employee with the username <i>researcher9</i> joins an organization. I have to add them to the system and continue to manage their access during their time with the organization.
 
 
-<h2Add a user:</h2>
-Adding or removing users and groups are tasks that require root (super user) privileges and we can only do this with the use of the <i>sudo</i> command. 
+<h2>Add a user:</h2>
+Adding or removing users and groups are tasks that require root (super user) privileges and we can only do this with the use of the <i>sudo</i> command.<br>
 
 <img src="https://github.com/Bridgetanntighe/ActiveDirectoryLab/assets/134883216/e013dd2b-5ccd-41f9-b21f-d23331ec5f372" height="80%" width="80%" alt="Active Directory Lab"/>
 
@@ -31,7 +31,7 @@ The <i>project_r.txt</i> file is located in the <i>/home/researcher2/projects</i
 A couple of months later, this employee's role at the organization has changed, and they are working in both the Research and the Sales departments.<br>
 
 In this task, I will add <i>researcher9</i> to a secondary group <i>(sales_team)</i>. Their primary group is still <i>research_team</i>.<br>
-<b><i>Note:Options for Linux commands are case-sensitive</b></i>
+<b><i>Note</b>:Options for Linux commands are case-sensitive</i>
 <img src="https://github.com/Bridgetanntighe/ActiveDirectoryLab/assets/134883216/98defd4f-0ea7-49cd-a9d2-68618fed5d1c" height="80%" width="80%" alt="Active Directory Lab"/>
 
 <h2>Delete a user:</h2>
